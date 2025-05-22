@@ -1,7 +1,7 @@
 # Velociraptor - Endpoint visibility and collection tool.
 
-Velociraptor is a tool for collecting host based state information
-using The Velociraptor Query Language (VQL) queries.
+Velociraptor is a powerful tool for collecting host based state information
+using The Velociraptor Query Language (VQL) queries. It provides advanced digital forensics and incident response capabilities.
 
 To learn more about Velociraptor, read the documentation on:
 
